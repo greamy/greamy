@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm @greamy, aka Grant!
 - 🎓 I am currently a student at Western Michigan University, studying computer science.
-- ☀️ I am a member of the Sunseeker team at WMU, we make a solar powered car to race.
+- ☀️ I am the lead programmer for the Sunseeker team at WMU, we make a solar powered car to race.
 - 🤖 My favorite subject is Artificial Intelligence, and I love to learn about it.
 - 📫 Feel free to reach out!
 

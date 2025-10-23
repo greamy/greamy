@@ -6,8 +6,6 @@
 - ✏️ Currently studying all the exciting research into LLMs, alongside my coursework.
 - 📫 Feel free to reach out!
 
-https://grantreamy.com
-
 <!---
 greamy/greamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
